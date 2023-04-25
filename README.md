@@ -21,7 +21,7 @@
 
 - 💬 **Ask me about**: OOP, Java, HTML, CSS, JavaScript, Python.
 - 🔭 **Also, I’m working on**: Something cool related to metaverse and soon will publish it 😉.
-- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+- 📫 **How to reach me**: catch, and follow me from the below links 👇, in addition to follow me here.
 - ⚡ **Fun fact**: I love sharing my knowledge and experience, contribute to open source projects related to Java.
 
 

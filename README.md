@@ -1,11 +1,10 @@
 ### Hi there, I'm João Vinícius 👋
 
-<a href="https://github.com/johnnymendes570/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnnymendes570&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-</a> 
-<a href="https://github.com/johnnymendes570/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnnymendes570&layout=compact&theme=radical&hide_border=false" />
-</a>
+<div align="left">
+  <a href="https://github.com/johnnymendes570">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnnymendes570&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymendes&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
